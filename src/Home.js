@@ -95,7 +95,7 @@ const Home = () => {
               <p>
                 Better treats serious cardiometabolic diseases to transform
                 lives and reduce healthcare utilization through the use of
-                digital therapeutics.
+                digital therapeutics. Trying to commit from codesandbox
               </p>
               <BtnRow>
                 <ExploreButton>
